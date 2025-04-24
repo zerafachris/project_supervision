@@ -1,4 +1,4 @@
-# List of Projects and Dissertation under my supervision
+# List of Projects and Dissertations under my Supervision
 
 ## 2024
 - “Using AI Systems to Detect Problem Gamblers in Online Gaming” by Luke Pullicino, Dr Joel Azzopardi, Dr Christopher Zerafa
