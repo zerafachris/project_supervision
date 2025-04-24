@@ -24,6 +24,7 @@ Industry placement for MSc AI involving the creation of a tool system to compare
 - Implementing reporting, monitoring, and alert notification features
 - Using SQL templating for dynamic value replacement
 - Comparing datasets and identifying discrepancies
+
 The project was crucial for GiG to ensure data consistency across various platforms and systems.
 
 
